@@ -1,12 +1,13 @@
-## Hi there 👋
+# **Hi there 👋**
 
-We are tied to the organizations below:
+## **We are tied to the organizations below**:
 
-https://github.com/JDJG-Holding-Team
-(owners/managers)
+- [JDJG-Holding-Team](https://github.com/JDJG-Holding-Team) (Owners/Managers)
 
-Alternative Projects that don't get worked on much:
-https://github.com/JDJG-s-Extra-Projects
+## **Alternative Projects**
+These are projects that don't get worked on much but are still available for collaboration.
+
+- [JDJG's Extra Projects](https://github.com/JDJG-s-Extra-Projects)
 
 
 <!--
