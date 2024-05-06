@@ -4,10 +4,10 @@
 
 - [JDJG-Holding-Team](https://github.com/JDJG-Holding-Team) (Owners/Managers)
 
-## **Alternative Projects**
+## **Main Projects**
 These are projects that don't get worked on much but are still available for collaboration.
 
-- [JDJG's Extra Projects](https://github.com/JDJG-s-Extra-Projects)
+- [JDJG's Projects](https://github.com/JDsProjects)
 
 
 <!--
